@@ -1,0 +1,8 @@
+http://99.92.179.78:1234
+#localhost
+#http://99.92.179.78:80
+
+#reverse_proxy /ws 192.168.7.231:8887
+reverse_proxy /ws 10.15.23.2:8887
+file_server browse
+
